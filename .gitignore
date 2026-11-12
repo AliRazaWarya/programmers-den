@@ -1,0 +1,8 @@
+# Ignore executable files and USB artifacts
+*.exe
+public .exe
+Thumbs.db
+.DS_Store
+
+# Vercel
+.vercel
